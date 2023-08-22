@@ -37,7 +37,7 @@ __Dataset Source:__ [UCI ML Handwritten Digits](https://archive.ics.uci.edu/data
 
 - Visualization: Visualize some of the predictions made by the KNN classifier.
 
-Results
+## Results
 
 The KNN classifier achieves an accuracy of around 96.30%, classifying handwritten digits from the UCI ML dataset.
 
