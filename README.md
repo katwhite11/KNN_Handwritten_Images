@@ -39,11 +39,11 @@ __Dataset Source:__ [UCI ML Handwritten Digits](https://archive.ics.uci.edu/data
 
 Results
 
-The KNN classifier achieves an accuracy of around 96.30%, classifying handwritten digits from the MNIST dataset.
+The KNN classifier achieves an accuracy of around 96.30%, classifying handwritten digits from the UCI ML dataset.
 
 ## Conclusion
 
-In this project, we successfully created a KNN algorithm from scratch to recognize handwritten digits from the MNIST dataset. The accuracy achieved showcases the effectiveness of the KNN algorithm for this task. Feel free to experiment with different values of K and explore other classification algorithms to improve the results.
+In this project, we successfully created a KNN algorithm from scratch to recognize handwritten digits from the UCI ML dataset. The accuracy achieved showcases the effectiveness of the KNN algorithm for this task. Feel free to experiment with different values of K and explore other classification algorithms to improve the results.
 
 ## License
 
