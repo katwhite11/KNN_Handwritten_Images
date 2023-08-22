@@ -5,6 +5,8 @@ This is a K Nearest Neighbors (KNN) educational project for recognizing handwrit
 ## Overview
 
 The K Nearest Neighbors algorithm is a simple and effective classification algorithm that classifies data points based on their similarity to neighboring data points. 
+
+
 ![Untitled](https://github.com/katwhite11/KNN_Handwritten_Images/assets/119902118/97fcfe76-0c97-41d0-a52d-a0fcb5814c77)
 ![1 v6Nn_zj8W0qsnk9Cc6Di_g](https://github.com/katwhite11/KNN_Handwritten_Images/assets/119902118/71a2df4e-4c5b-4d6b-bcb6-c6440a960364)
 
